@@ -35,7 +35,7 @@ My name is Michina Josiah and I'm a passionate developer with expertise in web a
 ## Github Stats:chart_with_upwards_trend:
 
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mahiuha&hide_border=true&background=1d1f21&stroke=20d6fe&ring=20d6fe&fire=2191b2&dates=808080&currStreakNum=c9cacc&currStreakLabel=20d6fe&sideNums=c9cacc&sideLabels=2191b2" alt="Mahiuha's GitHub Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=josmich100&hide_border=true&background=1d1f21&stroke=20d6fe&ring=20d6fe&fire=2191b2&dates=808080&currStreakNum=c9cacc&currStreakLabel=20d6fe&sideNums=c9cacc&sideLabels=2191b2" alt="Michina's GitHub Streak Stats" />
 </a>
 
 <!-- Resources -->
